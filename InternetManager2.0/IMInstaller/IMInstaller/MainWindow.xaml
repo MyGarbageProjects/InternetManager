@@ -1,0 +1,22 @@
+﻿<Window x:Class="IMInstaller.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IMInstaller"
+        mc:Ignorable="d"
+        Title="MainForm" Height="109" Width="426" WindowStartupLocation="CenterScreen" WindowStyle="None" MouseDown="Window_MouseDown" ResizeMode="NoResize" Background="White">
+    <Grid HorizontalAlignment="Left" Width="426" Height="109" VerticalAlignment="Top" Background="Gainsboro">
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="20" Margin="56,28,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="327" Background="Gainsboro" Foreground="Black" IsReadOnly="True"/>
+        <Button x:Name="btnInstall" Content="Установить" HorizontalAlignment="Left" Margin="330,61,0,0" VerticalAlignment="Top" Width="75" Background="Gainsboro" Foreground="#FF177DF7" BorderBrush="#FF043224" Click="button_Click"/>
+        <Button x:Name="btnSelectPath" Content="..." HorizontalAlignment="Left" Margin="388,28,0,0" VerticalAlignment="Top" Width="17" Background="Gainsboro" Foreground="#FF177DF7" Height="20" Click="button2_Click"/>
+        <Rectangle Fill="#FF00A2FF" HorizontalAlignment="Left" Width="426" Height="8" VerticalAlignment="Top" Margin="0,102,0,-1"/>
+        <Label x:Name="label" Content="Internet Manager v2.0" HorizontalAlignment="Left" VerticalAlignment="Top" Foreground="#FF177DF7"/>
+        <Button x:Name="btnExit" Content="X" HorizontalAlignment="Left" Margin="405,1,0,0" VerticalAlignment="Top" Width="20" Height="20" Foreground="#FF177DF7" Click="button1_Click"/>
+        <Label x:Name="lblPersent" Content="0%" HorizontalAlignment="Left" Margin="290,58,0,0" VerticalAlignment="Top" Visibility="Hidden"/>
+        <CheckBox x:Name="chckBoxStartToEnd" Content="Запустить по окончанию" HorizontalAlignment="Left" Margin="56,72,0,0" VerticalAlignment="Top" Foreground="#FF177DF7"/>
+        <CheckBox x:Name="chckBoxCreatShortcut" Content="Создать ярлык на рабочем столе" HorizontalAlignment="Left" Margin="56,52,0,0" VerticalAlignment="Top" Foreground="#FF177DF7"/>
+        <Label x:Name="lbl" Content="Путь:" HorizontalAlignment="Left" Margin="10,25,0,0" VerticalAlignment="Top"/>
+        <!--<Rectangle HorizontalAlignment="Left" Height="109" Margin="0,1,0,0" Stroke="#FF00A2FF" VerticalAlignment="Top" Width="426"/>-->
+    </Grid>
+</Window>
