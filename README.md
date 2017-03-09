@@ -1,5 +1,4 @@
-# InternetManager-CSharp
-Internet Manager 2.0
+# Internet Manager 2.0
 ##English
 This programm is needed for get report from internet company.
 Now in programm support only 2 company.
