@@ -13,5 +13,11 @@ It is convenient so that when you turn on the computer, I'm informed how many da
 <li>SubNet - http://www.subnet05.ru/ (Russian company)
 
 
-###Notification - Оповещение
+##Notification - Оповещение
 ![screenshot of sample](https://github.com/lif0/InternetManager-CSharp/blob/master/for%20github/Notification.png)
+
+##Main window programm - Главное окно программы
+![screenshot of sample](https://github.com/lif0/InternetManager-CSharp/blob/master/for%20github/main.png)
+
+##Window settings - Окно настроек
+![screenshot of sample](https://github.com/lif0/InternetManager-CSharp/blob/master/for%20github/settings.png)
