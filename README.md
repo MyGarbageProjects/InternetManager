@@ -14,13 +14,13 @@
 <li>SubNet - http://www.subnet05.ru/ (Russian company)
 
 
-#Оповещение
+#Оповещение<br>
 ![screenshot of sample](https://github.com/lif0/InternetManager-CSharp/blob/master/for%20github/Notification.png)
 
 
-#Главное окно программы
+ #Главное окно программы<br>
 ![screenshot of sample](https://github.com/lif0/InternetManager-CSharp/blob/master/for%20github/main.png)
 
 
-#Окно настроек
+ #Окно настроек<br>
 ![screenshot of sample](https://github.com/lif0/InternetManager-CSharp/blob/master/for%20github/settings.png)
