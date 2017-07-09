@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMWPF", "InternetManager\IMWPF.csproj", "{FDCCF54B-3967-4119-8BD2-3BE417A8E41E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMNotification", "IMNotification\IMNotification\IMNotification.csproj", "{76912A7B-0EB7-437E-B740-3FE3180AAF59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISP", "ISP-DLL Library\ISP\ISP.csproj", "{60AA8DD3-417E-473B-BB7E-30C1582EC8AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDCCF54B-3967-4119-8BD2-3BE417A8E41E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDCCF54B-3967-4119-8BD2-3BE417A8E41E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDCCF54B-3967-4119-8BD2-3BE417A8E41E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDCCF54B-3967-4119-8BD2-3BE417A8E41E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76912A7B-0EB7-437E-B740-3FE3180AAF59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76912A7B-0EB7-437E-B740-3FE3180AAF59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76912A7B-0EB7-437E-B740-3FE3180AAF59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76912A7B-0EB7-437E-B740-3FE3180AAF59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60AA8DD3-417E-473B-BB7E-30C1582EC8AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60AA8DD3-417E-473B-BB7E-30C1582EC8AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60AA8DD3-417E-473B-BB7E-30C1582EC8AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60AA8DD3-417E-473B-BB7E-30C1582EC8AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

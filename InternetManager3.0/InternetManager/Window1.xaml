@@ -1,0 +1,103 @@
+﻿<Window x:Class="IMWPF.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IMWPF"
+        mc:Ignorable="d"  Height="370" Width="600" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" WindowStyle="None">
+    <Grid x:Name="GridSettings" Background="#FF111111" Margin="0,3,0,-3" IsHitTestVisible="True">
+        <Rectangle x:Name="RectTopACap" Fill="White" HorizontalAlignment="Left" Height="27" Stroke="Black" StrokeThickness="0" VerticalAlignment="Top" Width="600" Margin="0,-2,0,0" MouseDown="TopACap_MouseDown"/>
+        <Image x:Name="imgClose" HorizontalAlignment="Left" Height="28" Margin="555,-3,0,0" VerticalAlignment="Top" Width="45" Stretch="None" MouseMove="imgClose_MouseMove" MouseLeave="imgClose_MouseLeave" MouseUp="imgClose_MouseUp" Source="Resources/CloseUnActive.png"/>
+        <Button x:Name="btnSaveAndClose" Content="Сохранить" HorizontalAlignment="Left" Margin="474,331,0,0" VerticalAlignment="Top" Width="116" Height="29" Background="#FFDDDDDD" Click="btnSaveAndClose_Click">
+            <Button.Effect>
+                <DropShadowEffect BlurRadius="10" Color="BlanchedAlmond" Direction="180" ShadowDepth="0"/>
+            </Button.Effect>
+        </Button>
+        <GroupBox x:Name="groupBoxAuthorize"  Header="Авторизация" HorizontalAlignment="Left" Margin="10,25,0,0" VerticalAlignment="Top" Height="117" Width="238" Foreground="White">
+            <Grid>
+                <Label x:Name="lblLogin" Content="Логин:" Foreground="Orange" HorizontalAlignment="Left" Margin="5,5,0,0" VerticalAlignment="Top"/>
+                <Label x:Name="lblPass" Content="Пароль:" Foreground="Orange" HorizontalAlignment="Left" Margin="5,30,0,0" VerticalAlignment="Top"/>
+                <Label x:Name="lblProvider" Content="Провайдер:" Foreground="Orange" HorizontalAlignment="Left" Margin="5,55,0,0" VerticalAlignment="Top"/>
+                <TextBox x:Name="txtLogin" HorizontalAlignment="Left" Height="20" Margin="90,9,0,0" VerticalAlignment="Top" Width="128" Background="#FF111111" Foreground="#FFA0A0A0" />
+                <PasswordBox x:Name="txtPass" HorizontalAlignment="Left" Height="20" Margin="90,35,0,0" VerticalAlignment="Top" Width="126" Background="#FF111111" Foreground="#FFA0A0A0" PasswordChanged="txtPass_PasswordChanged"/>
+                <TextBox x:Name="txtShowPass" HorizontalAlignment="Left" Height="20" Margin="90,35,0,0" VerticalAlignment="Top" Width="126" Background="#FF111111" Foreground="#FFA0A0A0" Visibility="Hidden" />
+                <ComboBox x:Name="cmbBoxCompany" HorizontalAlignment="Left" Height="24" Margin="90,60,0,0" VerticalAlignment="Top" Width="128" Background="#FF111111">
+                    <ComboBoxItem Content="Subnet"/>
+                    <ComboBoxItem Content="R-line"/>
+                </ComboBox>
+            </Grid>
+        </GroupBox>
+        <GroupBox x:Name="groupBoxColor" Header="Цвета элементов" HorizontalAlignment="Left" Margin="10,152,0,0" VerticalAlignment="Top" Height="139" Width="203" Foreground="White">
+            <Grid>
+                <ComboBox x:Name="cmbBoxControl" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="165"  SelectionChanged="cmbBoxControl_SelectionChanged">
+                    <ComboBoxItem Content="Цвет Шапки"/>
+                    <ComboBoxItem Content="Цвет линии по контуру"/>
+                </ComboBox>
+                <ComboBox x:Name="cmbBoxColorControl" HorizontalAlignment="Left" Margin="10,46,0,0" VerticalAlignment="Top" Width="165" SelectionChanged="cmbBoxColorControl_SelectionChanged" IsEnabled="False"/>
+            </Grid>
+        </GroupBox>
+        <GroupBox x:Name="groupBoxAutoStart"  Header="                           " HorizontalAlignment="Left" Margin="295,25,0,0" VerticalAlignment="Top" Height="213" Width="296" Foreground="White">
+            <Grid>
+                <Slider x:Name="SliderOpacity" HorizontalAlignment="Left" Margin="155,95,-1,0" VerticalAlignment="Top" Width="130" TickPlacement="BottomRight" Value="-1" Maximum="1" LargeChange="10" TickFrequency="0.1"/>
+                <Label x:Name="lbl1" Foreground="Orange" Content="Время существования окна           сек" HorizontalAlignment="Left" Margin="10,122,0,0" VerticalAlignment="Top"/>
+                <TextBox x:Name="txtBoxLifeSocondForm" HorizontalAlignment="Left" Height="20" Margin="171,127,0,0" VerticalAlignment="Top" Width="29" Background="#FF111111" Foreground="#FFA0A0A0" Text="60"/>
+                <Button x:Name="btnShowNotif" Content="Показать как будет выглядеть окно" HorizontalAlignment="Left" Margin="10,158,0,0" VerticalAlignment="Top" Width="267" Height="22" Click="btnShowNotif_Click">
+                    <Button.Effect>
+                        <DropShadowEffect BlurRadius="10" Color="BlanchedAlmond" Direction="180" ShadowDepth="0"/>
+                    </Button.Effect>
+                </Button>
+                <Label x:Name="lbl0" Foreground="Orange" Content="Прозрачность формы:" HorizontalAlignment="Left" Margin="10,92,0,0" VerticalAlignment="Top"/>
+                <ComboBox x:Name="cmbBoxThemeNotif" HorizontalAlignment="Left" Margin="154,9,0,0" VerticalAlignment="Top" Width="120">
+                    <ComboBoxItem Content="Dark"/>
+                    <ComboBoxItem Content="Ligth"/>
+                </ComboBox>
+                <Label x:Name="lbl2" Foreground="Orange" Content="Тема оповещения:" HorizontalAlignment="Left" Margin="10,7,0,0" VerticalAlignment="Top"/>
+                <ComboBox x:Name="cmbBoxStyleNotif" HorizontalAlignment="Left" Margin="155,36,0,0" VerticalAlignment="Top" Width="120">
+                    <ComboBoxItem Content="Black"/>
+                    <ComboBoxItem Content="White"/>
+                    <ComboBoxItem Content="Silver"/>
+                    <ComboBoxItem Content="Blue"/>
+                    <ComboBoxItem Content="Green"/>
+                    <ComboBoxItem Content="Lime"/>
+                    <ComboBoxItem Content="Teal"/>
+                    <ComboBoxItem Content="Orange"/>
+                    <ComboBoxItem Content="Brown"/>
+                    <ComboBoxItem Content="Pink"/>
+                    <ComboBoxItem Content="Magenta"/>
+                    <ComboBoxItem Content="Purple"/>
+                    <ComboBoxItem Content="Red"/>
+                    <ComboBoxItem Content="Yellow"/>
+                </ComboBox>
+                <Label x:Name="lbl3" Foreground="Orange" Content="Цвет стиля оповещения:" HorizontalAlignment="Left" Margin="10,34,0,0" VerticalAlignment="Top"/>
+                <ComboBox x:Name="cmbBoxNotifTxtCl" HorizontalAlignment="Left" Margin="155,65,0,0" VerticalAlignment="Top" Width="120">
+                    <ComboBoxItem Content="Black"/>
+                    <ComboBoxItem Content="White"/>
+                    <ComboBoxItem Content="Silver"/>
+                    <ComboBoxItem Content="Blue"/>
+                    <ComboBoxItem Content="Green"/>
+                    <ComboBoxItem Content="Lime"/>
+                    <ComboBoxItem Content="Teal"/>
+                    <ComboBoxItem Content="Orange"/>
+                    <ComboBoxItem Content="Brown"/>
+                    <ComboBoxItem Content="Pink"/>
+                    <ComboBoxItem Content="Magenta"/>
+                    <ComboBoxItem Content="Purple"/>
+                    <ComboBoxItem Content="Red"/>
+                    <ComboBoxItem Content="Yellow"/>
+                </ComboBox>
+                <Label x:Name="lbl4" Foreground="Orange" Content="Цвет текста оповещения:" HorizontalAlignment="Left" Margin="8,62,0,0" VerticalAlignment="Top"/>
+            </Grid>
+        </GroupBox>
+        <CheckBox x:Name="chckBxAnimRect" Content="Анимация линии по контуру" HorizontalAlignment="Left" Margin="25,245,0,0" VerticalAlignment="Top" Background="White" Foreground="White" Focusable="False" IsHitTestVisible="True" IsEnabled="False" Width="181" Click="chckBxAnimRect_Click"/>
+        <CheckBox x:Name="chckBxRmRect" Content="Удалить линию по контуру" HorizontalAlignment="Left" Margin="25,265,0,0" VerticalAlignment="Top" Background="White" Foreground="White" IsEnabled="False" Click="chckBxRmRect_Click" />
+        <CheckBox x:Name="chckBxAutoStart" Content="Автозагрузка" Foreground="White" HorizontalAlignment="Left" Margin="302,25,0,0" VerticalAlignment="Top" Click="chckBxAutoStart_Click"/>
+        <Label x:Name="lbl5" Content="Настройки успешно сохранены.Вернитесь к главному меню." Foreground="Orange" HorizontalAlignment="Left" Margin="124,334,0,0" VerticalAlignment="Top" Visibility="Hidden">
+            <Label.Effect>
+                <DropShadowEffect Color="BlanchedAlmond" Direction="200" BlurRadius="15"/>
+            </Label.Effect>
+        </Label>
+        <Image x:Name="imgPassBox" HorizontalAlignment="Left" Height="18" Margin="212,77,0,0" VerticalAlignment="Top" Width="18" Source="Resources/Show.png" MouseLeave="imgPassBox_MouseLeave" MouseUp="imgPassBox_MouseUp" MouseDown="imgPassBox_MouseDown"/>
+
+    </Grid>
+</Window>
+
