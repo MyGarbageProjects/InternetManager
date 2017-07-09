@@ -1,0 +1,10 @@
+D:\Project\C#\[Projects]\[Completed Projects]\[on github]\ISP\ISP\bin\Debug\ISP.dll
+D:\Project\C#\[Projects]\[Completed Projects]\[on github]\ISP\ISP\bin\Debug\ISP.pdb
+D:\Project\C#\[Projects]\[Completed Projects]\[on github]\ISP\ISP\bin\Debug\xNet.dll
+D:\Project\C#\[Projects]\[Completed Projects]\[on github]\ISP\ISP\obj\Debug\ISP.dll
+D:\Project\C#\[Projects]\[Completed Projects]\[on github]\ISP\ISP\obj\Debug\ISP.pdb
+D:\Project\C#\[Projects]\[Completed Projects]\[on github]\InternetManager3.0\ISP-DLL Library\ISP\bin\Debug\ISP.dll
+D:\Project\C#\[Projects]\[Completed Projects]\[on github]\InternetManager3.0\ISP-DLL Library\ISP\bin\Debug\ISP.pdb
+D:\Project\C#\[Projects]\[Completed Projects]\[on github]\InternetManager3.0\ISP-DLL Library\ISP\obj\Debug\ISP.dll
+D:\Project\C#\[Projects]\[Completed Projects]\[on github]\InternetManager3.0\ISP-DLL Library\ISP\obj\Debug\ISP.pdb
+D:\Project\C#\[Projects]\[Completed Projects]\[on github]\InternetManager3.0\ISP-DLL Library\ISP\obj\Debug\ISP.csprojResolveAssemblyReference.cache

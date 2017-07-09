@@ -1,0 +1,40 @@
+E:\Project\C#\[Visual Studio]\[ProjectPro]\RemControlComputer\IMNotification\IMNotification\bin\Debug\IMNotification.exe.config
+E:\Project\C#\[Visual Studio]\[ProjectPro]\RemControlComputer\IMNotification\IMNotification\obj\Debug\IMNotification.csprojResolveAssemblyReference.cache
+E:\Project\C#\[Visual Studio]\[ProjectPro]\RemControlComputer\IMNotification\IMNotification\bin\Debug\IMNotification.exe
+E:\Project\C#\[Visual Studio]\[ProjectPro]\RemControlComputer\IMNotification\IMNotification\bin\Debug\IMNotification.pdb
+E:\Project\C#\[Visual Studio]\[ProjectPro]\RemControlComputer\IMNotification\IMNotification\bin\Debug\MetroFramework.dll
+E:\Project\C#\[Visual Studio]\[ProjectPro]\RemControlComputer\IMNotification\IMNotification\obj\Debug\IMNotification.exe
+E:\Project\C#\[Visual Studio]\[ProjectPro]\RemControlComputer\IMNotification\IMNotification\obj\Debug\IMNotification.pdb
+E:\Project\C#\[Visual Studio]\[ProjectPro]\RemControlComputer\IMNotification\IMNotification\bin\Debug\xNet.dll
+E:\Project\C#\[Visual Studio]\[ProjectPro]\RemControlComputer\IMNotification\IMNotification\bin\Debug\xNet.xml
+E:\Project\C#\[Project]\InternetManager2.0\IMNotification\IMNotification\bin\Debug\IMNotification.exe.config
+E:\Project\C#\[Project]\InternetManager2.0\IMNotification\IMNotification\obj\Debug\IMNotification.exe
+E:\Project\C#\[Project]\InternetManager2.0\IMNotification\IMNotification\obj\Debug\IMNotification.pdb
+E:\Project\C#\[Project]\InternetManager2.0\IMNotification\IMNotification\bin\Debug\IMNotification.exe
+E:\Project\C#\[Project]\InternetManager2.0\IMNotification\IMNotification\bin\Debug\IMNotification.pdb
+E:\Project\C#\[Projects]\[Completed Projects]\InternetManager2.0\IMNotification\IMNotification\bin\Debug\IMNotification.exe.config
+E:\Project\C#\[Projects]\[Completed Projects]\InternetManager2.0\IMNotification\IMNotification\bin\Debug\IMNotification.exe
+E:\Project\C#\[Projects]\[Completed Projects]\InternetManager2.0\IMNotification\IMNotification\bin\Debug\IMNotification.pdb
+E:\Project\C#\[Projects]\[Completed Projects]\InternetManager2.0\IMNotification\IMNotification\bin\Debug\MetroFramework.dll
+E:\Project\C#\[Projects]\[Completed Projects]\InternetManager2.0\IMNotification\IMNotification\bin\Debug\xNet.dll
+E:\Project\C#\[Projects]\[Completed Projects]\InternetManager2.0\IMNotification\IMNotification\bin\Debug\xNet.xml
+E:\Project\C#\[Projects]\[Completed Projects]\InternetManager2.0\IMNotification\IMNotification\obj\Debug\IMNotification.csprojResolveAssemblyReference.cache
+E:\Project\C#\[Projects]\[Completed Projects]\InternetManager2.0\IMNotification\IMNotification\obj\Debug\IMNotification.exe
+E:\Project\C#\[Projects]\[Completed Projects]\InternetManager2.0\IMNotification\IMNotification\obj\Debug\IMNotification.pdb
+D:\Project\C#\[Projects]\[Completed Projects]\on github\InternetManager2.0\IMNotification\IMNotification\bin\Debug\IMNotification.exe.config
+D:\Project\C#\[Projects]\[Completed Projects]\on github\InternetManager2.0\IMNotification\IMNotification\bin\Debug\IMNotification.exe
+D:\Project\C#\[Projects]\[Completed Projects]\on github\InternetManager2.0\IMNotification\IMNotification\bin\Debug\IMNotification.pdb
+D:\Project\C#\[Projects]\[Completed Projects]\on github\InternetManager2.0\IMNotification\IMNotification\obj\Debug\IMNotification.exe
+D:\Project\C#\[Projects]\[Completed Projects]\on github\InternetManager2.0\IMNotification\IMNotification\obj\Debug\IMNotification.pdb
+D:\Project\C#\[Projects]\[Completed Projects]\[on github]\InternetManager2.0\IMNotification\IMNotification\bin\Debug\IMNotification.exe.config
+D:\Project\C#\[Projects]\[Completed Projects]\[on github]\InternetManager2.0\IMNotification\IMNotification\obj\Debug\IMNotification.exe
+D:\Project\C#\[Projects]\[Completed Projects]\[on github]\InternetManager2.0\IMNotification\IMNotification\obj\Debug\IMNotification.pdb
+D:\Project\C#\[Projects]\[Completed Projects]\[on github]\InternetManager2.0\IMNotification\IMNotification\bin\Debug\IMNotification.exe
+D:\Project\C#\[Projects]\[Completed Projects]\[on github]\InternetManager2.0\IMNotification\IMNotification\bin\Debug\IMNotification.pdb
+D:\Project\C#\[Projects]\[Completed Projects]\[on github]\InternetManager2.0\IMNotification\IMNotification\obj\Debug\IMNotification.csprojResolveAssemblyReference.cache
+D:\Project\C#\[Projects]\[Completed Projects]\[on github]\InternetManager3.0\IMNotification\IMNotification\bin\Debug\IMNotification.exe.config
+D:\Project\C#\[Projects]\[Completed Projects]\[on github]\InternetManager3.0\IMNotification\IMNotification\bin\Debug\IMNotification.exe
+D:\Project\C#\[Projects]\[Completed Projects]\[on github]\InternetManager3.0\IMNotification\IMNotification\bin\Debug\IMNotification.pdb
+D:\Project\C#\[Projects]\[Completed Projects]\[on github]\InternetManager3.0\IMNotification\IMNotification\obj\Debug\IMNotification.exe
+D:\Project\C#\[Projects]\[Completed Projects]\[on github]\InternetManager3.0\IMNotification\IMNotification\obj\Debug\IMNotification.pdb
+D:\Project\C#\[Projects]\[Completed Projects]\[on github]\InternetManager3.0\IMNotification\IMNotification\obj\Debug\IMNotification.csprojResolveAssemblyReference.cache
