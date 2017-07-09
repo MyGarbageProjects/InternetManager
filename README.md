@@ -14,7 +14,7 @@
 <li>SubNet - http://www.subnet05.ru/ (Russian company)
 
 
-#Оповещение
+##Оповещение
 ![screenshot of sample](https://github.com/lif0/InternetManager-CSharp/blob/master/for%20github/Notification.png)
 
 #Главное окно программы
