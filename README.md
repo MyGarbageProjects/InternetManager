@@ -1,10 +1,5 @@
-# Internet Manager 2.0
-##English
-This programm is needed for get report from internet company.
-Now in programm support only 2 company.
+# Internet Manager 3.0
 
-It is convenient so that when you turn on the computer, I'm informed how many days I have left before paying for the Internet.
-##Russian
 Эта программа нужна для того чтоб получать информацию о счете из интернет компании.
 Программа поддеживает 2 компании.
 
@@ -13,11 +8,11 @@ It is convenient so that when you turn on the computer, I'm informed how many da
 <li>SubNet - http://www.subnet05.ru/ (Russian company)
 
 
-##Notification - Оповещение
+##Оповещение
 ![screenshot of sample](https://github.com/lif0/InternetManager-CSharp/blob/master/for%20github/Notification.png)
 
-##Main window programm - Главное окно программы
+##Главное окно программы
 ![screenshot of sample](https://github.com/lif0/InternetManager-CSharp/blob/master/for%20github/main.png)
 
-##Window settings - Окно настроек
+##Окно настроек
 ![screenshot of sample](https://github.com/lif0/InternetManager-CSharp/blob/master/for%20github/settings.png)
