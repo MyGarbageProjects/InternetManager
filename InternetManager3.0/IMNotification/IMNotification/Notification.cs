@@ -68,9 +68,9 @@ namespace IMNotification
             int Days = P.HowManyDaysLeft;
             Image img;
             if (Days > 3)
-                img = new Bitmap("Images/IcoInfo64x64.ico");
+                img = new Bitmap(AppDomain.CurrentDomain.BaseDirectory + "Images/IcoInfo64x64.ico");
             else
-                img = new Bitmap("Images/IcoWarning64x64.ico");
+                img = new Bitmap(AppDomain.CurrentDomain.BaseDirectory + "Images/IcoWarning64x64.ico");
             pic.Image = img;
 
             //Добавляем элементы на форму
