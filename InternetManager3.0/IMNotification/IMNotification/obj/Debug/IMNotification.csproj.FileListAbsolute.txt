@@ -47,3 +47,10 @@ D:\Project\C#\[Projects]\[Completed Projects]\InternetManager3.0\IMNotification\
 D:\Project\C#\[Projects]\[Completed Projects]\InternetManager3.0\IMNotification\IMNotification\obj\Debug\IMNotification.csprojResolveAssemblyReference.cache
 D:\Project\C#\[Projects]\[Completed Projects]\InternetManager3.0\IMNotification\IMNotification\obj\Debug\IMNotification.exe
 D:\Project\C#\[Projects]\[Completed Projects]\InternetManager3.0\IMNotification\IMNotification\obj\Debug\IMNotification.pdb
+D:\Project\C#\[Projects]\[Project]\InternetManager\InternetManager3.0\IMNotification\IMNotification\bin\Debug\IMNotification.exe.config
+D:\Project\C#\[Projects]\[Project]\InternetManager\InternetManager3.0\IMNotification\IMNotification\bin\Debug\IMNotification.exe
+D:\Project\C#\[Projects]\[Project]\InternetManager\InternetManager3.0\IMNotification\IMNotification\bin\Debug\IMNotification.pdb
+D:\Project\C#\[Projects]\[Project]\InternetManager\InternetManager3.0\IMNotification\IMNotification\obj\Debug\IMNotification.csproj.CoreCompileInputs.cache
+D:\Project\C#\[Projects]\[Project]\InternetManager\InternetManager3.0\IMNotification\IMNotification\obj\Debug\IMNotification.csproj.CopyComplete
+D:\Project\C#\[Projects]\[Project]\InternetManager\InternetManager3.0\IMNotification\IMNotification\obj\Debug\IMNotification.exe
+D:\Project\C#\[Projects]\[Project]\InternetManager\InternetManager3.0\IMNotification\IMNotification\obj\Debug\IMNotification.pdb

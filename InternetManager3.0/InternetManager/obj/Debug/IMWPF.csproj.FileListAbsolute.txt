@@ -126,3 +126,24 @@ D:\Project\C#\[Projects]\[Completed Projects]\InternetManager3.0\InternetManager
 D:\Project\C#\[Projects]\[Completed Projects]\InternetManager3.0\InternetManager\obj\Debug\IMWPF.csproj.GenerateResource.Cache
 D:\Project\C#\[Projects]\[Completed Projects]\InternetManager3.0\InternetManager\obj\Debug\IMWPF.exe
 D:\Project\C#\[Projects]\[Completed Projects]\InternetManager3.0\InternetManager\obj\Debug\IMWPF.pdb
+D:\Project\C#\[Projects]\[Project]\InternetManager\InternetManager3.0\InternetManager\bin\Debug\IMWPF.exe.config
+D:\Project\C#\[Projects]\[Project]\InternetManager\InternetManager3.0\InternetManager\bin\Debug\IMWPF.exe
+D:\Project\C#\[Projects]\[Project]\InternetManager\InternetManager3.0\InternetManager\bin\Debug\IMWPF.pdb
+D:\Project\C#\[Projects]\[Project]\InternetManager\InternetManager3.0\InternetManager\bin\Debug\ISP.dll
+D:\Project\C#\[Projects]\[Project]\InternetManager\InternetManager3.0\InternetManager\obj\Debug\MainWindow.g.cs
+D:\Project\C#\[Projects]\[Project]\InternetManager\InternetManager3.0\InternetManager\obj\Debug\Window1.g.cs
+D:\Project\C#\[Projects]\[Project]\InternetManager\InternetManager3.0\InternetManager\obj\Debug\App.g.cs
+D:\Project\C#\[Projects]\[Project]\InternetManager\InternetManager3.0\InternetManager\obj\Debug\IMWPF_MarkupCompile.cache
+D:\Project\C#\[Projects]\[Project]\InternetManager\InternetManager3.0\InternetManager\obj\Debug\IMWPF_MarkupCompile.lref
+D:\Project\C#\[Projects]\[Project]\InternetManager\InternetManager3.0\InternetManager\obj\Debug\App.baml
+D:\Project\C#\[Projects]\[Project]\InternetManager\InternetManager3.0\InternetManager\obj\Debug\MainWindow.baml
+D:\Project\C#\[Projects]\[Project]\InternetManager\InternetManager3.0\InternetManager\obj\Debug\Window1.baml
+D:\Project\C#\[Projects]\[Project]\InternetManager\InternetManager3.0\InternetManager\obj\Debug\IMWPF.g.resources
+D:\Project\C#\[Projects]\[Project]\InternetManager\InternetManager3.0\InternetManager\obj\Debug\IMWPF.Properties.Resources.resources
+D:\Project\C#\[Projects]\[Project]\InternetManager\InternetManager3.0\InternetManager\obj\Debug\IMWPF.csproj.GenerateResource.cache
+D:\Project\C#\[Projects]\[Project]\InternetManager\InternetManager3.0\InternetManager\obj\Debug\IMWPF.csproj.CoreCompileInputs.cache
+D:\Project\C#\[Projects]\[Project]\InternetManager\InternetManager3.0\InternetManager\obj\Debug\IMWPF.csproj.CopyComplete
+D:\Project\C#\[Projects]\[Project]\InternetManager\InternetManager3.0\InternetManager\obj\Debug\IMWPF.exe
+D:\Project\C#\[Projects]\[Project]\InternetManager\InternetManager3.0\InternetManager\obj\Debug\IMWPF.pdb
+D:\Project\C#\[Projects]\[Project]\InternetManager\InternetManager3.0\InternetManager\bin\Debug\ISP.pdb
+D:\Project\C#\[Projects]\[Project]\InternetManager\InternetManager3.0\InternetManager\obj\Debug\IMWPF.csprojAssemblyReference.cache

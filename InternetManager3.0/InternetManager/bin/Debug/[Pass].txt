@@ -1,7 +1,0 @@
-Login=binom7z
-Pass=953402
-ServiceProvider=Subnet
-
-Login=binom7z
-Pass=5389
-ServiceProvider=RLine

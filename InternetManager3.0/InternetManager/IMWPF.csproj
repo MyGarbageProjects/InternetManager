@@ -56,7 +56,7 @@
   <ItemGroup>
     <Reference Include="ISP, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\IMNotification\IMNotification\bin\Debug\ISP.dll</HintPath>
+      <HintPath>..\ISP-DLL Library\ISP\bin\Debug\ISP.dll</HintPath>
     </Reference>
     <Reference Include="MetroFramework">
       <HintPath>..\..\..\..\[For Project C#]\[DLL для C#]\Metro1.3.5\MetroFramework_Version1.3.5\MetroFramework.dll</HintPath>

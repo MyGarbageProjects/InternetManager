@@ -43,7 +43,7 @@ namespace IMWPF
             //internetCompany = new Authorization(ref LabelsContainer);
             provider.CheckInternetConnection();
         }
-        #region Перемещение формы за головку
+        #region Перемещение формы за шапку
         public const int WM_NCLBUTTONDOWN = 0xA1;
         public const int HT_CAPTION = 0x2;
         [DllImport("user32.dll")]

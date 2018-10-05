@@ -522,7 +522,6 @@ namespace IMWPF
         }
         private void CreateNotificationAndShow(string text)
         {
-
             notif.CreateNotification(System.Drawing.ColorTranslator.FromHtml(ini.IniReadValue("Notification", "ColorText")), double.Parse(ini.IniReadValue("Notification", "Opacity")), MetroTheme("Notification", "Theme"), MetroStyle("Notification", "Style"));
             notif.ShowNotification(text, true, GetInt("Notification", "LifeSecond"), true);
         }

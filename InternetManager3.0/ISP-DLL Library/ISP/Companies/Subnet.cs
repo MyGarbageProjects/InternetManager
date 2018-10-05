@@ -22,7 +22,7 @@ namespace ISP.Companies
             fields = new List<string>();
             using (HttpRequest client = new HttpRequest())
             {
-                client.UserAgent = Http.FirefoxUserAgent();
+                client.UserAgent = Http.ChromeUserAgent();
                 CookieDictionary cookie = new CookieDictionary(false);
                 client.Cookies = cookie;
                 var reqParams = new RequestParams();
@@ -32,7 +32,7 @@ namespace ISP.Companies
                 string ID = content.Substring("var contractId = ", ";");
                 if (ID == "")
                     throw new Exception("ERROR: NOT AUTHORIZED,INVALID LOGIN OR PASSWORD");
-                GetValue(client.Get("http://lk.subnet05.ru/webexecuter?action=GetBalance&mid=0&module=contract&contractId=" + ID).ToString(), ref fields);
+                GetValue(client.Get("http://lk.subnet05.ru/?action=GetBalance&mid=0&module=contract&contractId=" + ID).ToString(), ref fields);
                 CalculateSubscriptionFee(balance, spentMoney, ref fields);
                 //GetValue(client.Get("http://lk.subnet05.ru/webexecuter?action=GetBalance&module=contract&mid=0&year=2017&month=5").ToString(), ref fields);
             }
